@@ -1,2 +1,2 @@
 # project1
-there sre some question in this project. and you have to answer .and at last you can see your total mark.
+There are some question, in this Project. And you have to answer it. And at last you can see your total mark.
